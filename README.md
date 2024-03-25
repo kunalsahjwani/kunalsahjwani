@@ -1,5 +1,6 @@
 # 💫 About Me:
-Creative thinker, analytical person, awesome
+Building Data Products with Precision. Exploring the Future with AI.
+
 
 
 ## 🌐 Socials:
