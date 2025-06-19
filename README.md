@@ -61,7 +61,7 @@ Building Data Products with Precision. Exploring the Future with AI.
 
 ## 🏅 Certifications
 
-[![AWS Certified Machine Learning – Specialty](https://images.credly.com/size/220x220/images/2d311168-4e50-4f73-8d8f-6c6bff6f92b6/AWS-Certified_Machine-Learning-Specialty_badge.png)](https://www.credly.com/badges/c6e18da7-4d3e-4b63-bef5-0182ebd02d5d/linked_in?t=suyfh5)
+[![AWS Certified Machine Learning – Specialty](https://images.credly.com/size/340x340/images/2d311168-4e50-4f73-8d8f-6c6bff6f92b6/image.png)](https://www.credly.com/badges/c6e18da7-4d3e-4b63-bef5-0182ebd02d5d/linked_in?t=suyfh5)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
